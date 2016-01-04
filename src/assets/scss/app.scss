@@ -4,6 +4,10 @@
 @import 'foundation';
 @import 'motion-ui';
 
+@import 'emc2-vars';
+@import 'icons';
+
+
 @include foundation-global-styles;
 @include foundation-grid;
 @include foundation-typography;
@@ -42,3 +46,5 @@
 
 @include motion-ui-transitions;
 @include motion-ui-animations;
+
+@import 'emc2-custom';

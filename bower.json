@@ -1,0 +1,22 @@
+{
+  "name": "emc2-innovation",
+  "version": "1.0.0",
+  "authors": [
+    "Eric McNiece <hello@emc2innovation.com>"
+  ],
+  "description": "EMC2 Innovation commercial website",
+  "main": "gulpfile.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation-sites": "~6.1.0",
+    "motion-ui": "~1.1.0"
+  },
+  "private": true
+}

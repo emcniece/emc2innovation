@@ -33,7 +33,7 @@ module.exports = {
         short_name: `emc2innovation`,
         start_url: `/`,
         background_color: `#fff`,
-        theme_color: `#02aab0`,
+        theme_color: `#ff9800`,
         display: `standalone`,
         icon: 'src/images/favicon.png',
       },

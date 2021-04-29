@@ -1,11 +1,4 @@
-# Gatsby Simplefolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobidev/gatsby-simplefolio?color=blue)](https://github.com/cobidev/gatsby-simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobidev/gatsby-simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobidev/gatsby-simplefolio)
-
-## A clean, beautiful and responsive portfolio template for Developers
-
-<h2 align="center">
-  <img src="https://github.com/cobidev/gatsby-simplefolio/blob/master/examples/example.gif" alt="Gatsby Simplefolio" width="600px" />
-  <br>
-</h2>
+# emc2innovation.com ⚡️ [![GitHub](https://img.shields.io/github/license/emcniece/emc2innovation?color=blue)](https://github.com/emcniece/emc2innovation/blob/master/LICENSE.md)
 
 ## Features
 
@@ -39,12 +32,6 @@ git@2.17.1 or higher
 gatsby-cli@2.8.22 or higher
 ```
 
-Also, you can use [Yarn](https://yarnpkg.com/) instead of NPM ☝️
-
-```
-yarn@v1.21.1 or higher
-```
-
 ---
 
 ## How To Use 🔧
@@ -53,13 +40,10 @@ From your command line, first clone Simplefolio:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/cobidev/gatsby-simplefolio
+$ git clone https://github.com/emcniece/emc2innovation.git
 
 # Go into the repository
-$ cd gatsby-simplefolio
-
-# Remove current origin repository
-$ git remote remove origin
+$ cd emc2innovation
 ```
 
 Then you can install the dependencies either using NPM or Yarn:
@@ -74,15 +58,6 @@ $ npm install
 $ npm run develop
 ```
 
-Using Yarn:
-
-```bash
-# Install dependencies
-$ yarn
-
-# Start development server
-$ yarn develop
-```
 
 **NOTE**:
 If your run into issues installing the dependencies with NPM, use this command:
@@ -93,10 +68,6 @@ $ sudo npm install --unsafe-perm=true --allow-root
 ```
 
 Once your server has started, go to this url `http://localhost:8000/` and you will see the website running on a Development Server:
-
-<h2 align="center">
-  <img src="https://github.com/cobidev/gatsby-simplefolio/blob/master/examples/example.png" alt="Gatsby Simplefolio" width="100%">
-</h2>
 
 ---
 
@@ -232,9 +203,7 @@ $secondary-color: #00cdac;
 
 ## Deployment 📦
 
-Once you have done with your setup. You need to put your website online!
-
-I highly recommend to use [Netlify](https://netlify.com) to achieve this on the EASIEST WAY
+This site is auto-deployed with [Cloudflare Pages](https://pages.cloudflare.com/).
 
 ## Others versions 👥
 
@@ -251,11 +220,6 @@ I highly recommend to use [Netlify](https://netlify.com) to achieve this on the 
 
 ## Authors
 
-- **Jacobo Martinez** - [https://github.com/cobidev](https://github.com/cobidev)
-
-## Status
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2365af6f-820a-4fb8-83e6-69a66f686dfe/deploy-status)](https://app.netlify.com/sites/gatsby-simplefolio/deploys)
 
 ## License 📄
 
@@ -263,4 +227,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments 🎁
 
-I was motivated to create this project because I wanted to contribute on something useful for the dev community, thanks to [ZTM Community](https://github.com/zero-to-mastery) and [Andrei](https://github.com/aneagoie)
+**Jacobo Martinez** - [https://github.com/cobidev](https://github.com/cobidev) was motivated to create this project because they wanted to contribute on something useful for the dev community, thanks to [ZTM Community](https://github.com/zero-to-mastery) and [Andrei](https://github.com/aneagoie)
